@@ -1,0 +1,21 @@
+.title {
+    font-family: Courier;
+    color: blueviolet;
+    text-align: center;
+    font-size: 75px;
+    background-color: yellow;
+    padding: 20px 100px;
+    
+}
+
+.link {
+    margin: 200px;
+    font-family: Courier;
+    font-size: large;
+    
+}
+
+.recipeBox {
+    margin-top: 300px;
+    text-align: center;
+}
