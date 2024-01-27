@@ -19,3 +19,36 @@
     margin-top: 300px;
     text-align: center;
 }
+
+.pizzaHeading {
+    padding: 15px 0%;
+    margin: auto auto;
+    width: 100%;
+    color: lightyellow;
+    text-align: center;
+    background-color: lightcoral;
+    font-family: Courier;
+    font-size: 60px;
+}
+
+.simpleHeading {
+    color: red;
+    text-align: center;
+    font-family: Courier;
+    font-size: 30px;
+}
+
+.pizzapic {
+    padding: 0%;
+    width: 100%;
+    height: auto;
+    margin: auto auto;
+}
+
+.page.pizza {
+    background-color: lightyellow;
+}
+
+.back {
+    padding: 30px;
+}
