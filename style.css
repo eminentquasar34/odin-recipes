@@ -1,23 +1,26 @@
-.title {
-    font-family: Courier;
-    color: blueviolet;
-    text-align: center;
-    font-size: 75px;
-    background-color: yellow;
-    padding: 20px 100px;
-    
-}
-
 .link {
-    margin: 200px;
     font-family: Courier;
     font-size: large;
     
 }
 
+body {
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    background-color: gray;
+    align-items: center;
+    justify-content: space-between;
+    padding: 4px 8px;
+    margin: 0;
+}
+
 .recipeBox {
-    margin-top: 300px;
-    text-align: center;
+    display: flex;
+    gap: 16px;
+    padding: 8px;
 }
 
 .pizzaHeading {
@@ -52,3 +55,4 @@
 .back {
     padding: 30px;
 }
+
